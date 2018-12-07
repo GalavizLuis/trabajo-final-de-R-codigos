@@ -1,0 +1,9 @@
+act7<-function(a=65){
+  for(a in 1:a)
+  {
+    if(a%%2==0){
+      print(a)
+    }
+  }
+}
+act7()

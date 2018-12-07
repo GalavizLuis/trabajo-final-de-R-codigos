@@ -1,0 +1,9 @@
+act8<-function(a=65){
+  for(a in 1:65)
+  {
+    if(a%%2!=0){
+      print(a)
+    }
+  }
+}
+act8()

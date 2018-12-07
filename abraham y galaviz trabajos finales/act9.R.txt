@@ -1,0 +1,5 @@
+act9<-function(a=65){
+  x=a*3+1
+  print(x)
+}
+act9()
